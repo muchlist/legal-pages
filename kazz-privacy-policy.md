@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Kebijakan Privasi Aplikasi Kazz
 permalink: /kazz-privacy-policy/
 ---
