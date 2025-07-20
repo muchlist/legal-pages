@@ -6,7 +6,7 @@ permalink: /kazz-privacy-policy/
 
 # Kebijakan Privasi
 
-**Terakhir diperbarui: 20 April 2025**
+**Terakhir diperbarui: 8 Mei 2025**
 
 Aplikasi **Kazz** ("kami", "kita", atau "pengembang") menghormati privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, dan melindungi informasi pribadi Anda saat menggunakan aplikasi kami.
 
@@ -16,6 +16,9 @@ Kami hanya mengumpulkan informasi yang diperlukan untuk menjalankan aplikasi den
 
 - Nama dan alamat email Anda melalui login dengan akun Google atau GitHub. (Nama dapat anda update untuk meningkatkan privasi).
 - Data transaksi yang Anda masukkan sendiri, seperti nama transaksi, jumlah, dan kategori.
+- Izin untuk mengirimkan notifikasi, digunakan untuk memberi tahu Anda tentang perubahan data yang relevan.
+- Akses ke mikrofon perangkat Anda diperlukan (optional) untuk memungkinkan fitur input pengeluaran menggunakan suara. Kami **tidak menyimpan atau merekam** data audio Anda.
+
 
 Kami **tidak** meminta nomor telepon atau informasi pribadi lainnya di luar yang disebutkan di atas.
 
@@ -26,6 +29,8 @@ Informasi yang kami kumpulkan digunakan untuk:
 - Menyimpan dan menampilkan catatan pemasukan dan pengeluaran Anda.
 - Mengirimkan notifikasi yang berkaitan dengan penggunaan aplikasi.
 - Memastikan pengalaman penggunaan yang cepat, lancar dan aman.
+- Menggunakan akses mikrofon hanya untuk menjalankan fitur input pengeluaran menggunakan suara. Data audio **diproses secara lokal di perangkat dan tidak disimpan** oleh kami.
+
 
 ## 3. Penyimpanan dan Keamanan Data
 
